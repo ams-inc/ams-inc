@@ -128,10 +128,68 @@
   transform: rotateY(180deg);
 }
 
-@media screen and (min-width: 601px) {
-     .flip-card, .flip-card2, .flip-card3, .flip-card4, .flip-card5, .flip-card6 {
-    max-height: 65vh;
-  }
+/*7th*/
+.flip-card7 {
+  background-color: transparent;
+  height: 600px;
+  width: 20%;
+  perspective: 1000px; 
+  margin: 10px;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+}
+
+.flip-card7:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/*8th*/
+.flip-card8 {
+  background-color: transparent;
+  height: 600px;
+  width: 20%;
+  perspective: 1000px; 
+  margin: 10px;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+}
+
+.flip-card8:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/*9th*/
+.flip-card9 {
+  background-color: transparent;
+  height: 600px;
+  width: 20%;
+  perspective: 1000px; 
+  margin: 10px;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+}
+
+.flip-card9:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/*10th*/
+.flip-card10 {
+  background-color: transparent;
+  height: 600px;
+  width: 20%;
+  perspective: 1000px; 
+  margin: 10px;
+  overflow: hidden;
+  padding: 0;
+  float: left;
+}
+
+.flip-card10:hover .flip-card-inner {
+  transform: rotateY(180deg);
 }
 
 @media screen and (max-width: 600px) {
